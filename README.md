@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-photo-url.jpg" alt="michael Ojuang Okoth" width="200" height="200" style="border-radius: 50%;">
+  <img src="IMG_6897.JPG" alt="michael Ojuang Okoth" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">🛡️ Michael Ojuang Okoth</h1>
