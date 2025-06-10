@@ -75,7 +75,8 @@ Hello! I'm a cybersecurity network engineer passionate about defending digital i
 ### 🕵️‍♂️ Web requests
 
 - **Lesson:** This mostly explored the inner depth of HTTP and HTTPS and how they function together with cURL 
-- **Tools:** Linux  
+- **Tools:** Linux
+- **Complition Link** https://academy.hackthebox.com/achievement/1945221/35
 
 
 ---
