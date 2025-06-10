@@ -18,7 +18,7 @@ Hello! I'm a cybersecurity network engineer passionate about defending digital i
 ### 🎓 Education
 
 - **Bachelor of Science in Information Technology**, Zetech University  
-  *Graduated:* 2024  
+  *Graduated:* November 2024  
   *Focus:* Network Security, Operating Systems, Cryptography
 
 ### 💼 Work Experience
