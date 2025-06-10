@@ -23,7 +23,7 @@ Hello! I'm a cybersecurity network engineer passionate about defending digital i
 
 ### 💼 Work Experience
 
-- **Cybersecurity Intern**, Jaramogi Oginga Odinga Teaching and Refferal Hospital  
+- **Cybersecurity Officer**, Jaramogi Oginga Odinga Teaching and Refferal Hospital  
   *september 2024 – february 2025*  
   - Assisted with firewall rule analysis and network traffic monitoring  
   - Participated in vulnerability assessments using Nessus and Nmap
