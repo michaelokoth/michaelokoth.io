@@ -32,7 +32,8 @@ Hello! I'm a cybersecurity network engineer passionate about defending digital i
 
 ### 📜 Certifications
 
-- HCIA (Huawei Certified ICT Asociate) from Zetech university  
+- HCIA (Huawei Certified ICT Asociate) from Zetech university
+- Cloud and Network Security form United states international university
 - Cisco CCNA Security from Zetech University 
  
 
